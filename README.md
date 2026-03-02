@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Muhammad Aamir! 👋
 
-<!--
-**Muhammad-Aamir1/Muhammad-Aamir1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ☁️ DevOps Engineer | GCP & Kubernetes Enthusiast
 
-Here are some ideas to get you started:
+I am a DevOps Engineer focused on building, automating, and securing cloud infrastructure. I specialize in the Google Cloud Platform (GCP) ecosystem, container orchestration with Kubernetes, and designing robust CI/CD pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+
+* **Cloud & Infrastructure:** Google Cloud Platform (GCP), Kubernetes (GKE), Docker, Istio
+* **Automation & CI/CD:** Cloud Build, GitHub Actions, Shell Scripting
+* **Languages & Frameworks:** Node.js, Python, Flask, JavaScript
+
+### 🚀 What I'm working on
+* Architecting secure, private GKE clusters.
+* Implementing service meshes using Istio for microservices.
+* Streamlining deployment pipelines with Google Cloud Build.
+
+### 📫 Let's Connect!
+* **LinkedIn:** [Your LinkedIn URL here]
+* **Portfolio:** [Your Website URL here]
+* **Email:** [Your Email here]
+
+### 📊 GitHub Stats
+![Aamir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Aamir1&show_icons=true&theme=radium)
