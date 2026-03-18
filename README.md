@@ -16,9 +16,8 @@ I am a DevOps Engineer focused on building, automating, and securing cloud infra
 * Streamlining deployment pipelines with Google Cloud Build.
 
 ### 📫 Let's Connect!
-* **LinkedIn:** [Your LinkedIn URL here]
-* **Portfolio:** [Your Website URL here]
-* **Email:** [Your Email here]
+* **LinkedIn:** https://www.linkedin.com/in/md-amir-irfan/
+* **Email:**amir12334irfan@gmail.com
 
 ### 📊 GitHub Stats
 ![Aamir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Aamir1&show_icons=true&theme=radium)
