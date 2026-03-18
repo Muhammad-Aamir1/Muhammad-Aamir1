@@ -17,7 +17,7 @@ I am a DevOps Engineer focused on building, automating, and securing cloud infra
 
 ### 📫 Let's Connect!
 * **LinkedIn:** https://www.linkedin.com/in/md-amir-irfan/
-* **Email:**amir12334irfan@gmail.com
+* **Email:** amir12334irfan@gmail.com
 
 ### 📊 GitHub Stats
 ![Aamir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Aamir1&show_icons=true&theme=radium)
