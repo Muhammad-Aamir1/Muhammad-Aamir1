@@ -2,7 +2,7 @@
 
 ### **GCP-AWS focused Cloud DevOps Engineer | GCP & Kubernetes Enthusiast, Cloud Architect**
 
-[cite_start]I am a DevOps Engineer with over **3 years of experience** specializing in designing, automating, and operating production-grade cloud infrastructure[cite: 4, 16]. [cite_start]Currently, I work at **Infosys Ltd**, where I focus on building scalable CI/CD platforms and reliable Kubernetes environments[cite: 15, 17].
+[cite_start] I am a DevOps Engineer with over **3 years of experience** specializing in designing, automating, and operating production-grade cloud infrastructure[cite: 4, 16]. [cite_start]Currently, I work at **Infosys Ltd**, where I focus on building scalable CI/CD platforms and reliable Kubernetes environments[cite: 15, 17].
 
 ---
 
@@ -22,28 +22,28 @@
 
 Let’s break down what I actually do. Here is how I’ve improved systems and delivery:
 
-* [cite_start]**Automation:** Developed modular Terraform modules that cut infrastructure setup time from days to **under one hour**[cite: 18].
-* [cite_start]**Reliability:** Integrated CI/CD pipelines that reduced build failures by **30%**[cite: 19].
-* [cite_start]**Speed:** Boosted release velocity by **40%** through automated validation and deployment controls[cite: 19].
-* [cite_start]**Scale:** Successfully containerized and deployed **10+ microservices** using Docker and Helm on GKE[cite: 20].
+* [cite_start] **Automation:** Developed modular Terraform modules that cut infrastructure setup time from days to **under one hour**[cite: 18].
+* [cite_start] **Reliability:** Integrated CI/CD pipelines that reduced build failures by **30%**[cite: 19].
+* [cite_start] **Speed:** Boosted release velocity by **40%** through automated validation and deployment controls[cite: 19].
+* [cite_start] **Scale:** Successfully containerized and deployed **10+ microservices** using Docker and Helm on GKE[cite: 20].
 
 ---
 
 ### 📜 **Certifications**
 
-* [cite_start]**Google Cloud Professional DevOps Engineer** [cite: 7, 28]
-* [cite_start]**Google Cloud Professional Cloud Architect** [cite: 7, 29]
-* [cite_start]**Google Cloud Associate Cloud Engineer** [cite: 30]
+* [cite_start] **Google Cloud Professional DevOps Engineer** [cite: 7, 28]
+* [cite_start] **Google Cloud Professional Cloud Architect** [cite: 7, 29]
+* [cite_start] **Google Cloud Associate Cloud Engineer** [cite: 30]
 
 ---
 
 ### 📫 **Connect with Me**
 
-* [cite_start]**LinkedIn:** [linkedin.com/in/md-amir-irfan](https://linkedin.com/in/md-amir-irfan) [cite: 2]
-* [cite_start]**Email:** [amir12334irfan@gmail.com](mailto:amir12334irfan@gmail.com) [cite: 2]
-* [cite_start]**Location:** Asansol, West Bengal [cite: 2]
+* [cite_start] **LinkedIn:** [linkedin.com/in/md-amir-irfan](https://linkedin.com/in/md-amir-irfan) [cite: 2]
+* [cite_start] **Email:** [amir12334irfan@gmail.com](mailto:amir12334irfan@gmail.com) [cite: 2]
+* [cite_start] **Location:** Asansol, West Bengal [cite: 2]
 
 ---
 
 ### 🎓 **Education**
-* [cite_start]**B.Tech in Electrical Engineering**, Asansol Engineering College (2018 - 2022) [cite: 32]
+* [cite_start] **B.Tech in Electrical Engineering**, Asansol Engineering College (2018 - 2022) [cite: 32]
