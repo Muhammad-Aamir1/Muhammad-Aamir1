@@ -2,7 +2,7 @@
 
 ### **GCP-AWS focused Cloud DevOps Engineer | GCP & Kubernetes Enthusiast**
 
-I am a DevOps Engineer with over **3.4 years of experience** designing and operating production-grade cloud infrastructure. Currently, I’m at **Infosys Ltd**, building scalable CI/CD platforms and managing reliable Kubernetes environments.
+I am a DevOps Engineer with over **3.5 years of experience** designing and operating production-grade cloud infrastructure. Currently, I’m at **Infosys Ltd**, building scalable CI/CD platforms and managing reliable Kubernetes environments.
 
 ---
 
